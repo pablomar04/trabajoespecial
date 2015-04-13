@@ -1,0 +1,101 @@
+ body{
+	margin:0px;
+	font-family: Open Sans, sans-serif;
+	font-weight:400;
+	background:#CCCCCC;
+ }
+ .contenedor{
+   
+   margin: 0 auto;
+   width:1000px;
+   height:auto;
+   padding:10px;
+   background:#B2C2F0;
+   
+   
+}
+
+ header{
+   width:970px;
+   height:100px;
+   background-color:orange;
+   padding-top:10px;
+   padding-left:30px;
+ 
+   
+}
+.menu{
+   width:950px;
+   height:50px;
+   
+   background-color:black;
+   font-size:24px;
+   font-weight:bold;
+   float:left;
+   padding-top:10px;
+   padding-left:50px;
+
+}
+.menu ul li{
+	display:inline;
+}
+.menu ul li a {
+	color:white;
+	padding-left:20px;
+	padding-right:20px;
+	margin-right:20px;
+	text-decoration:none;
+	}
+.menu ul li a:hover
+{
+    color: red;
+		
+}
+
+section{
+  width:980px;
+  height:auto;
+  float:left;
+  display:block;
+  background:white;
+ 
+  padding:10px;
+  
+}
+
+
+p{
+	color:#000;
+	font-size:13px;
+	line-height:22px;
+}
+ 
+
+ul{
+	margin:0 0 0 0 ;
+	padding:0 0 0 0 ;
+	list-style-type:none;
+}
+
+.aviso li {
+	background:url("fondo-marco.png") no-repeat;
+	background-size:100% 100%;
+	padding:25px 25px 30px 25px;
+	width:250px;
+	height:340px;
+	display:block;
+	float:left;
+	margin: 12px;
+	
+}	
+
+footer{
+   width:1000px;
+   height:100px;
+   background-color:orange;
+   clear:both;
+ 
+   
+}
+
+
